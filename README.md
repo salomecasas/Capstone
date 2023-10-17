@@ -27,6 +27,16 @@ Describe with the project is doing
 
 ## Additional Visualizations
 
+- ![Alt text](3.3.1.png)
+- ![Alt text](3.3.2.png)
+- ![Alt text](3.3.3.png)
+- ![Alt text](5.5.1.png)
+- ![Alt text](5.5.2.png)
+- ![Alt text](5.5.3.png)
+- ![Alt text](5.5.4.png)
+
+
+
 - ![Alt text](image.png)
 - ![Alt text](image-1.png)
 - ![Alt text](image-2.png)
@@ -34,7 +44,4 @@ Describe with the project is doing
 - ![Alt text](image-4.png)
 - ![Alt text](image-5.png)
 - ![Alt text](image-6.png)
-
-
-
 
