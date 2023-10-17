@@ -25,13 +25,13 @@ These imports json, mysql connector, pandas, matplotlib
 
 
 ## Additional Visualizations
-![Alt text](3.3.1.png)
-![Alt text](3.3.2.png)
-![Alt text](3.3.3.png)
-![Alt text](5.5.1.png)
-![Alt text](5.5.2.png)
-![Alt text](5.5.3.png)
-![Alt text](5.5.4.png)
+- ![Alt text](3.3.1.png)
+- ![Alt text](3.3.2.png)
+- ![Alt text](3.3.3.png)
+- ![Alt text](5.5.1.png)
+- ![Alt text](5.5.2.png)
+- ![Alt text](5.5.3.png)
+- ![Alt text](5.5.4.png)
 
 
 
