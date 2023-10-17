@@ -1,22 +1,37 @@
 # Capstone
 
 
-## Resources
+# PerScholas Capstone Banking Project
 
-- [GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## Overview
 
-## Images
+This project reads in json files and also an API which utilizes a console to display data
 
-![Image 1](image.png)
-![Image 2](image-1.png)
-![Image 3](image-2.png)
-![Image 4](image-3.png)
-![Image 5](image-4.png)
-![Image 6](image-5.png)
+## Libraries and Technologies used include:
 
-![Image 7](image-6.png)
+These imports json, mysql connector, pandas, matplotlib
 
-(You can add descriptions or captions for each image as needed)
+## Features
+
+### Transaction Data
+
+### Transaction Data Options
+
+
+### Customer Data
+
+
+### Customer Data Options
+
+
+## Additional Visualizations
+![Alt text](3.3.1.png)
+![Alt text](3.3.2.png)
+![Alt text](3.3.3.png)
+![Alt text](5.5.1.png)
+![Alt text](5.5.2.png)
+![Alt text](5.5.3.png)
+![Alt text](5.5.4.png)
 
 
 
