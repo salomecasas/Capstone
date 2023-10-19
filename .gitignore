@@ -210,3 +210,5 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,jupyternotebooks
 Documentation/LINKS FOR THE CAPSTONE.docx
+
+/Dev_Code
