@@ -5,6 +5,11 @@
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
+
+# Where the username and password are located
+Celia_PW.py
+# Where the username and password are located
+
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
